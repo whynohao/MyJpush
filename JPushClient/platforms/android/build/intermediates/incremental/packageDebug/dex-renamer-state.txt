@@ -1,0 +1,4 @@
+#Fri Dec 08 11:39:29 CST 2017
+base.0=D\:\\TEMP\\AppJpush\\JPushClient\\platforms\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\TEMP\\AppJpush\\JPushClient\\platforms\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

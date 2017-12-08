@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\TEMP\\AppJpush\\JPushClient\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\layout\\test_notification_layout.xml",
+        "source": "D:\\TEMP\\AppJpush\\JPushClient\\platforms\\android\\res\\layout\\test_notification_layout.xml"
+    },
+    {
+        "merged": "D:\\TEMP\\AppJpush\\JPushClient\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "D:\\TEMP\\AppJpush\\JPushClient\\platforms\\android\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "D:\\TEMP\\AppJpush\\JPushClient\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_popwin_layout.xml",
+        "source": "D:\\TEMP\\AppJpush\\JPushClient\\platforms\\android\\res\\layout\\jpush_popwin_layout.xml"
+    }
+]

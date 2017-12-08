@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\TEMP\AppJpush\JPushClient\platforms\android\libs\jcore-android-1.1.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e38434d177c7e2ad13524529f2a0874cad828323">
+        <dex dex="D:\TEMP\AppJpush\JPushClient\platforms\android\build\intermediates\pre-dexed\debug\jcore-android-1.1.7_88ad38032f9fa06012250f64b1fb8c60221eac1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TEMP\AppJpush\JPushClient\platforms\android\libs\jpush-android-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c74a7c1d1e250f985ee21309e43b7e800fd2e2f3">
+        <dex dex="D:\TEMP\AppJpush\JPushClient\platforms\android\build\intermediates\pre-dexed\debug\jpush-android-3.1.0_6bdafa29d119bd17a8d77775301bc23d4c18aab2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TEMP\AppJpush\JPushClient\platforms\android\build\intermediates\exploded-aar\org.apache.cordova\CordovaLib\6.3.0\debug\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="df1a7a6af20c4eca090c1f535b77951ef6025bfb">
+        <dex dex="D:\TEMP\AppJpush\JPushClient\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-6.3.0-debug_6cb991fffcdc8e6e737b8a7e7acd295859c69056.jar" />
+    </item>
+
+</items>

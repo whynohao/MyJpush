@@ -1,0 +1,35 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.test"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "com.test"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.test"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.test"
+    },
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "com.test"
+    },
+    "jpush-phonegap-plugin": {
+      "APP_KEY": "b4692c7e90da6b98750bbec5",
+      "PACKAGE_NAME": "com.test"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-jcore": {
+      "PACKAGE_NAME": "com.test"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\TEMP\\AppJpush\\JPushClient\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\jpush_richpush_btn_selector.xml",
+        "source": "D:\\TEMP\\AppJpush\\JPushClient\\platforms\\android\\res\\drawable\\jpush_richpush_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\TEMP\\AppJpush\\JPushClient\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\jpush_richpush_progressbar.xml",
+        "source": "D:\\TEMP\\AppJpush\\JPushClient\\platforms\\android\\res\\drawable\\jpush_richpush_progressbar.xml"
+    }
+]

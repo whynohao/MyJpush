@@ -1,0 +1,85 @@
+[
+    {
+        "outputFile": "D:\\TEMP\\AppJpush\\JPushClient\\platforms\\android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "D:\\TEMP\\AppJpush\\JPushClient\\platforms\\android\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 63,
+                        "endOffset": 216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 42,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "D:\\TEMP\\AppJpush\\JPushClient\\platforms\\android\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 42,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 58,
+                    "endOffset": 216
+                },
+                "from": {
+                    "file": "D:\\TEMP\\AppJpush\\JPushClient\\platforms\\android\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 58,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 221,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 784
+                },
+                "from": {
+                    "file": "D:\\TEMP\\AppJpush\\JPushClient\\platforms\\android\\res\\values\\jpush_style.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 688
+                    }
+                }
+            }
+        ]
+    }
+]
