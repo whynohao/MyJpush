@@ -1,0 +1,8 @@
+D:\TEMP\AppJpush\JPushServer\cn.jpush.api.test\bin\Debug\cn.jpush.api.test.dll
+D:\TEMP\AppJpush\JPushServer\cn.jpush.api.test\bin\Debug\cn.jpush.api.test.pdb
+D:\TEMP\AppJpush\JPushServer\cn.jpush.api.test\bin\Debug\cn.jpush.api.dll
+D:\TEMP\AppJpush\JPushServer\cn.jpush.api.test\bin\Debug\Newtonsoft.Json.dll
+D:\TEMP\AppJpush\JPushServer\cn.jpush.api.test\bin\Debug\cn.jpush.api.pdb
+D:\TEMP\AppJpush\JPushServer\cn.jpush.api.test\obj\Debug\cn.jpush.api.test.csprojResolveAssemblyReference.cache
+D:\TEMP\AppJpush\JPushServer\cn.jpush.api.test\obj\Debug\cn.jpush.api.test.dll
+D:\TEMP\AppJpush\JPushServer\cn.jpush.api.test\obj\Debug\cn.jpush.api.test.pdb

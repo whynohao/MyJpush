@@ -1,0 +1,13 @@
+D:\Downloads\jpush-api-csharp-client-1\cn.jpush.api\bin\Debug\cn.jpush.api.dll
+D:\Downloads\jpush-api-csharp-client-1\cn.jpush.api\bin\Debug\cn.jpush.api.pdb
+D:\Downloads\jpush-api-csharp-client-1\cn.jpush.api\bin\Debug\Newtonsoft.Json.dll
+D:\Downloads\jpush-api-csharp-client-1\cn.jpush.api\bin\Debug\Newtonsoft.Json.xml
+D:\Downloads\jpush-api-csharp-client-1\cn.jpush.api\obj\Debug\cn.jpush.api.dll
+D:\Downloads\jpush-api-csharp-client-1\cn.jpush.api\obj\Debug\cn.jpush.api.pdb
+D:\TEMP\AppJpush\JPushServer\cn.jpush.api\bin\Debug\cn.jpush.api.dll
+D:\TEMP\AppJpush\JPushServer\cn.jpush.api\bin\Debug\cn.jpush.api.pdb
+D:\TEMP\AppJpush\JPushServer\cn.jpush.api\bin\Debug\Newtonsoft.Json.dll
+D:\TEMP\AppJpush\JPushServer\cn.jpush.api\bin\Debug\Newtonsoft.Json.xml
+D:\TEMP\AppJpush\JPushServer\cn.jpush.api\obj\Debug\cn.jpush.api.dll
+D:\TEMP\AppJpush\JPushServer\cn.jpush.api\obj\Debug\cn.jpush.api.pdb
+D:\TEMP\AppJpush\JPushServer\cn.jpush.api\obj\Debug\cn.jpush.api.csprojResolveAssemblyReference.cache

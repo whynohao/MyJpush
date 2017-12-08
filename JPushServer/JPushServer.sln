@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cn.jpush.api", "cn.jpush.api\cn.jpush.api.csproj", "{E281D457-F259-4F0B-8608-16C81D8AE97B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cn.jpush.api.test", "cn.jpush.api.test\cn.jpush.api.test.csproj", "{DA7D243F-378F-414A-913A-38065D0E9BE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cn.jpush.server", "cn.jpush.server\cn.jpush.server.csproj", "{2DA0A970-9EF2-40BA-814E-63B0C9754773}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E281D457-F259-4F0B-8608-16C81D8AE97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E281D457-F259-4F0B-8608-16C81D8AE97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E281D457-F259-4F0B-8608-16C81D8AE97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E281D457-F259-4F0B-8608-16C81D8AE97B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA7D243F-378F-414A-913A-38065D0E9BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA7D243F-378F-414A-913A-38065D0E9BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA7D243F-378F-414A-913A-38065D0E9BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA7D243F-378F-414A-913A-38065D0E9BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DA0A970-9EF2-40BA-814E-63B0C9754773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA0A970-9EF2-40BA-814E-63B0C9754773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA0A970-9EF2-40BA-814E-63B0C9754773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA0A970-9EF2-40BA-814E-63B0C9754773}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
